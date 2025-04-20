@@ -415,8 +415,8 @@
             <mxPoint x="550" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZOrKa2nVrH_H-EAFC5og-208" value="Sales Star Schema" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="150" height="30" as="geometry" />
+        <mxCell id="ZOrKa2nVrH_H-EAFC5og-208" value="Sales Star Schema" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZOrKa2nVrH_H-EAFC5og-209" value="Sales:= Quantity * Price" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="318" y="450" width="191" height="30" as="geometry" />
