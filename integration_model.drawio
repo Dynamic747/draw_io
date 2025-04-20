@@ -85,6 +85,24 @@
         <mxCell id="2SV65qm75TuYQeTb2wNc-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="65" width="390" height="525" as="geometry" />
         </mxCell>
+        <mxCell id="2SV65qm75TuYQeTb2wNc-39" value="PRODUCT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2SV65qm75TuYQeTb2wNc-40" value="PRODUCT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2SV65qm75TuYQeTb2wNc-41" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2SV65qm75TuYQeTb2wNc-42" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2SV65qm75TuYQeTb2wNc-43" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="605" y="550" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2SV65qm75TuYQeTb2wNc-44" value="SALES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
